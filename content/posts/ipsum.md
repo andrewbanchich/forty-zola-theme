@@ -1,9 +1,12 @@
----
-layout: post
-title: Tempus
-description: Feugiat amet tempus
-image: assets/images/pic02.jpg
----
++++
+title = "Ipsum"
+date = 2016-08-22
+template = "page.html"
+description = "Nisl sed aliquam"
+
+[extra]
+image = "assets/images/pic04.jpg"
++++
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 

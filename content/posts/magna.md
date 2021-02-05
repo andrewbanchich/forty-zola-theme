@@ -1,9 +1,12 @@
----
-layout: post
-title: Magna
-description: Lorem etiam nullam
-image: assets/images/pic03.jpg
----
++++
+title = "Magna"
+date = 2016-08-23
+template = "page.html"
+description = "Lorem etiam nullam"
+
+[extra]
+image = "assets/images/pic03.jpg"
++++
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
 

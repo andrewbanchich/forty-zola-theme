@@ -1,9 +1,12 @@
----
-layout: post
-title: Aliquam
-description: Ipsum dolor sit amet
-image: assets/images/pic01.jpg
----
++++
+title = "Etiam"
+date = 2016-08-20
+template = "page.html"
+description = "Feugiat amet tempus"
+
+[extra]
+image = "assets/images/pic06.jpg"
++++
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 

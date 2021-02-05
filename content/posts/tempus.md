@@ -1,9 +1,12 @@
----
-layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
----
++++
+title = "Tempus"
+date = 2016-08-24
+template = "page.html"
+description = "Feugiat amet tempus"
+
+[extra]
+image = "assets/images/pic02.jpg"
++++
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
