@@ -1,0 +1,19 @@
+name = "Forty"
+description = "A Zola version of the 'Forty' theme by HTML5 UP."
+license = "MIT"
+homepage = "https://github.com/andrewbanchich/forty-zola-theme"
+min_version = "0.4.0"
+demo = "https://andrewbanchich.github.io/forty-zola-theme/"
+
+# You don't need to prefix variables by the theme name but as this will
+# be merged with user data, some kind of prefix or nesting is preferable
+# Use snake_casing to be consistent with the rest of Zola
+[extra]
+
+[author]
+name = "Andrew Banchich"
+homepage = "https://andrewbanchi.ch"
+
+[original]
+author =  "ajlkn"
+homepage = "html5up.net"
