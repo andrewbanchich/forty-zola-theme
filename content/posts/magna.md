@@ -5,7 +5,7 @@ template = "page.html"
 description = "Lorem etiam nullam"
 
 [extra]
-image = "assets/images/pic03.jpg"
+image = "/images/pic03.jpg"
 +++
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
