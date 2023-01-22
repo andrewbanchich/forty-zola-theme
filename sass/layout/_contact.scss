@@ -18,7 +18,6 @@
 				@include padding(4em, 0, (0, 3em, 0, 0));
 				border-right: solid 1px _palette(border);
 				width: 60%;
-				z-index: 1;
 			}
 
 			> :nth-child(2n) {
@@ -52,7 +51,7 @@
 			}
 		}
 
-		@include breakpoint(medium) {
+		@include breakpoint('<=medium') {
 			> .inner {
 				display: block;
 
@@ -84,7 +83,7 @@
 			}
 		}
 
-		@include breakpoint(small) {
+		@include breakpoint('<=small') {
 			> .inner {
 				> :nth-child(2n - 1) {
 					@include padding(3em, 0, (0, 0, 0, 0));
