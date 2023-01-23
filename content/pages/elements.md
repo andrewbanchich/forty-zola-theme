@@ -1,8 +1,10 @@
----
-layout: page
-title: Elements
-nav-menu: true
----
++++
+title = "Elements"
+template = "posts.html"
+
+[extra]
+image = "/images/pic11.jpg"
++++
 
 <!-- Main -->
 <div id="main" class="alt">

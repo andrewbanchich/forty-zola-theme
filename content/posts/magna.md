@@ -1,7 +1,7 @@
 +++
 title = "Magna"
 date = 2016-08-23
-template = "page.html"
+template = "posts.html"
 description = "Lorem etiam nullam"
 
 [extra]

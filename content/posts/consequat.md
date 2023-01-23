@@ -1,7 +1,7 @@
 +++
 title = "Consequat"
 date = 2016-08-21
-template = "page.html"
+template = "posts.html"
 description = "Ipsum dolor sit amet"
 
 [extra]

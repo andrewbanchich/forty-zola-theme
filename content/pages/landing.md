@@ -1,13 +1,9 @@
 +++
 title = "Landing"
-+++
-<!-- layout = "landing" -->
 description = "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla."
-<!-- image = "assets/images/pic07.jpg" -->
-<!-- nav-menu = true -->
+template = "landing.html"
 
-<!-- Main -->
-<div id="main">
++++
 
 <!-- One -->
 <section id="one">
@@ -23,7 +19,7 @@ description = "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tem
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="@/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +35,7 @@ description = "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tem
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="@/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -83,5 +79,3 @@ description = "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tem
 		</ul>
 	</div>
 </section>
-
-</div>
